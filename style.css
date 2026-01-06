@@ -453,7 +453,7 @@ position: relative;
 /* 네이버 배너 */
 .fixed-wrap {
   height: 160px;
-  background: #c3bd9e url(../imge/Naver\ Item\ board.png) no-repeat top fixed;
+  background: #c3bd9e url(./imge/Naver\ Item\ board.png) no-repeat top fixed;
   margin-top: 0px;
 }
 
